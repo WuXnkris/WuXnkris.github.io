@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Artificial Intelligence (Excellence Program), University of Science and Technology Beijing, 2022-2026 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - Present: Large Language Model Algorithm Intern
+  * Institute of Automation, Chinese Academy of Sciences
+  * Duties include: *You can add your responsibilities here*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards and Honors
+======
+* National Scholarship (2023-2024)
+* First-Class People's Scholarship (2022-2023)
+* Outstanding Student of Beijing
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * *Add more languages as needed*
+* Machine Learning & AI
+  * *Add your skills here*
+* *Add other skill categories as needed*
 
 Publications
 ======
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* *You can add your service and leadership experiences here*
